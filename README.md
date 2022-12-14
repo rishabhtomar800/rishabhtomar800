@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhtomar800&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhtomar800" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishabhtomar" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhtomar?logo=twitter&style=for-the-badge" alt="rishabhtomar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rishabhtomar800" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhtomar?logo=twitter&style=for-the-badge" alt="rishabhtomar" /></a> </p>
 
 - 🔭 I’m currently working on **Living Mantra**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishabhtomar800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhtomar" height="30" width="40" /></a>
+<a href="https://https://twitter.com/rishabhtomar800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhtomar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rishabh-tomar-gen-artist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishahbtomar" height="30" width="40" /></a>
 <a href="https://instagram.com/the_vitruvian_club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_vitruvian_manb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishabhtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishabhtomar" height="30" width="40" /></a>
