@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rishabh Tomar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/rishabhtomar800" target="blank"><img src="https://img.shields.io/twitter/follow/rishabhtomar?logo=twitter&style=for-the-badge" alt="rishabhtomar" /></a> </p>
 
-- 🔭 I’m currently working on **Living Mantra**
+- 🔭 I’m currently working on **Creating a Clone of a Golf Course website to increase my front end skills**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **javascript**
 
 - 👨‍💻 All of my projects are available at [https://rishabhtomar.my.canva.site/](https://rishabhtomar.my.canva.site/)
 
-- 💬 Ask me about **HTML & CSS**
+- 💬 Ask me about ** Graphic design, Reading, Environment, Tech and sports**
 
 - 📫 How to reach me **redismyvibe@gmail.com**
 
